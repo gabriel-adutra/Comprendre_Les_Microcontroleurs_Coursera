@@ -1,1 +1,1 @@
-# Comprendre_Les_Microcontroleurs_Coursera
+Ce cours donne les bases théoriques et pratiques nécessaires à une bonne compréhension et utilisation des microcontrôleurs. De nombreux exemples seront abordés. Des exercices proposés sont compatibles avec les cartes à microcontrôleurs Arduino ou LaunchPad MSP430G.
